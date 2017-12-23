@@ -6,7 +6,7 @@
 
 Vue-cli + elementUi + eCharts
 
-# Build Setup
+# 建立安装程序
 
 ``` bash
 # install dependencies
