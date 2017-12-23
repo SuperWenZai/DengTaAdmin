@@ -6,6 +6,8 @@
 
 Vue-cli + elementUi + eCharts
 
+# 示例（images）
+
 # 建立安装程序
 
 ``` bash
@@ -22,5 +24,3 @@ npm run build
 npm run build --report
 
 ```
-
-# 示例（images）
