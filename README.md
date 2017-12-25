@@ -15,6 +15,8 @@ Vue-cli + elementUi + eCharts
 ``` bash
 # install dependencies
 npm install
+或
+cnpm install
 
 # serve with hot reload at localhost:8888
 npm run dev
