@@ -8,6 +8,8 @@ Vue-cli + elementUi + eCharts
 
 # 示例（images）
 
+![image](https://github.com/SupermanWenZai/DengTaAdmin/blob/master/static/images/shiliImages.png)
+
 # 建立安装程序
 
 ``` bash
